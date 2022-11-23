@@ -3,3 +3,16 @@
 ################################################################################
 
 /.vs
+/PartTwo/bin/Debug/net6.0
+/PartTwo/obj
+/PartOne/.vs
+/PartOne/bin/Debug/net6.0
+/PartOne/obj
+/DataMungingCore/bin/Debug/net6.0
+/DataMungingCore/obj
+/FootballComponent/bin/Debug/net6.0
+/FootballComponent/obj
+/PartThree/bin/Debug/net6.0
+/PartThree/obj
+/WeatherComponent/bin/Debug/net6.0
+/WeatherComponent/obj
